@@ -442,7 +442,7 @@ important things.')
                             </p>
                         </div>
                         <div class="flex flex-row justify-start mt-4">
-                            <a href="https://lambent.co/tag/philippines/"
+                            <a href="https://blog.lambent.co/tag/philippines/"
                                 class="font-copy text-base font-normal tracking-normal leading-none text-newgrowth-600 normal-case">
                                 Read More
                             </a>
@@ -469,7 +469,7 @@ important things.')
                             </p>
                         </div>
                         <div class="flex flex-row justify-start mt-4">
-                            <a href="https://lambent.co/tag/business-process-outsourcing/"
+                            <a href="hhttps://blog.lambent.co/tag/outsourcing/"
                                 class="font-copy text-base font-normal tracking-normal leading-none text-newgrowth-600 normal-case">
                                 Read More
                             </a>
@@ -496,7 +496,7 @@ important things.')
                             </p>
                         </div>
                         <div class="flex flex-row justify-start mt-4">
-                            <a href="https://lambent.co/tag/case-study/"
+                            <a href="https://blog.lambent.co/tag/philippines/"
                                 class="font-copy text-base font-normal tracking-normal leading-none text-newgrowth-600 normal-case">
                                 Read More
                             </a>
